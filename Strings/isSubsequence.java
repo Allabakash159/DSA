@@ -14,4 +14,5 @@ class Solution {
 
         return sIndex==s.length() ? true : false ;
     }
+    
 }
